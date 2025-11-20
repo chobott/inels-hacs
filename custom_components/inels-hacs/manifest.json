@@ -1,0 +1,28 @@
+{
+  "domain": "inels-hacs",
+  "name": "iNELS core 2025.11+ (chobott)",
+  "codeowners": [
+    "@epdevlab",
+    "@Nejezchleb",
+    "@jhoralek",
+    "@zed4805"
+	"@chobott"
+  ],
+  "config_flow": true,
+  "dependencies": [
+    "mqtt"
+  ],
+  "documentation": "https://github.com/chobott/inels-hacs",
+  "iot_class": "local_push",
+  "issue_tracker": "https://github.com/chobott/inels-hacs/issues",
+  "mqtt": [
+    "inels/status/#"
+  ],
+  "requirements": [
+    "elkoep-mqtt==0.2.33b10"
+  ],
+  "version": "0.1.0-b10",
+  "loggers": [
+    "custom_components.inels"
+  ]
+}
