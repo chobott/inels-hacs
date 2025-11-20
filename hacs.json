@@ -1,6 +1,6 @@
 {
-    "name": "iNELS to MQTT (epdevlab)",
+    "name": "iNELS to MQTT core 2025.11+ (chobott)",
     "hacs": "1.6.0",
-    "homeassistant": "2023.7.1",
+    "homeassistant": "2025.11.0",
     "render_readme": true
 }
