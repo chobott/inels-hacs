@@ -1,4 +1,4 @@
-# Inels HACS integration
+# Inels HACS integration HACS version for HA Core 2025.11+
 
 <!--[![GitHub Release][releases-shield]][releases]-->
 [![GitHub Activity][commits-shield]][commits]
